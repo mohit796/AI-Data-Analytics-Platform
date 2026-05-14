@@ -6,3 +6,7 @@ scikit-learn
 reportlab
 kaleido
 matplotlib
+seaborn
+openpyxl
+requests
+beautifulsoup4
